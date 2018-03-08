@@ -1,0 +1,18 @@
+scheme: "MiMaMo One"
+author: "lionawurscht (http://github.com/lionawurscht)"
+base00: "151c1f" # ----
+base01: "2c3335" # ---
+base02: "515759" # --
+base03: "717678" # -
+base04: "9ca1a4" # +
+base05: "ced2d5" # ++
+base06: "e1e5e7" # +++
+base07: "e9edef" # ++++
+base08: "a3495c" # red
+base09: "dd6b42" # orange
+base0A: "edd187" # yellow
+base0B: "c2d076" # green
+base0C: "9ebc9e" # aqua/cyan
+base0D: "88a3d8" # blue
+base0E: "9e6b99" # purple
+base0F: "c45f46" # brown
